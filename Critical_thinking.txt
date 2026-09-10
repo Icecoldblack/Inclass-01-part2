@@ -1,0 +1,7 @@
+Q4: Declarative UI. Compare the declarative approach used in Flutter (setState() → rebuild) to an imperative approach you may have seen elsewhere (e.g., manually changing an HTML element with JavaScript). Which would be easier to maintain in a large team, and why? Declarative UI
+
+Declarative UI: Flutter is easier to maintain because setState() updates the data and rebuilds the screen automatically, unlike manually changing HTML elements with JavaScript.
+
+Q5 Team Collaboration. Reflect on setting up your shared GitHub repository with your partner: what part of the workflow (branches, pull requests, merge conflicts, or communication) felt hardest, and what would you do differently on your very first day at a new software job to avoid that friction? GitHub Teamwork
+
+GitHub Teamwork: Communication was the hardest part, so at a new job I would agree on branches, pull requests, and file ownership with my team on the first day.
